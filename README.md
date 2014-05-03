@@ -1,6 +1,6 @@
 Tail of Tabby
 =============
-A, Actionscript 3 in Flash, top-down RPG where the Tabby, the cat, fights off tens of enemies in order to defeat the Hound Empire.
+An, Actionscript 3 in Flash, top-down RPG where the Tabby, the cat, fights off tens of enemies in order to defeat the Hound Empire.
 
 STATUS: Incomplete, on permanent hiatus.
 
